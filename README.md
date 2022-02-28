@@ -8,7 +8,7 @@
 
 ### Sobre mim
 - 🥰 Estou em transição de carreira. Sempre fui apaixonado por técnologia da informação.
-- 🔭 Tenho experiência com ReactJS e várias bibliotecas (Redux, Thunk, React Icons, React Router DOM, React Hook Forms, Axios, Styled Components, Chakra UI) em projetos de aprendizado.
+- 🔭 Tenho experiência com ReactJS e várias bibliotecas (Redux, Thunk, React Icons, React Router DOM, React Hook Forms, Axios, Typescript, Styled Components, Chakra UI) em projetos de aprendizado.
 - 🌱 Estou estudando Flask, NodeJS, MongoDB, Cassandra e PostgreSQL atualmente
 - 🐧 Desenvolvo em ambiente linux (Ubuntu)
 - 🧑‍🎓 Curso superior em Desenvolvimento de Software Multiplataforma pela [Fatec Franca](https://site.fatecfranca.edu.br/cursos/dsm)
