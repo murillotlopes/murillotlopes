@@ -18,7 +18,7 @@
 - 📫 Me chame no Linkedin ou envie um e-mail murillo.tlopes@hotmail.com
 
 
-[![murillotlopes GitHub stats](https://github-readme-stats.vercel.app/api?username=murillotlopes)](https://github.com/murillotlopes/github-readme-stats)
+<!-- [![murillotlopes GitHub stats](https://github-readme-stats.vercel.app/api?username=murillotlopes)](https://github.com/murillotlopes/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillotlopes&layout=compact)](https://github.com/murillotlopes/github-readme-stats)
 
 
